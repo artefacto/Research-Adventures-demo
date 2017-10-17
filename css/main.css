@@ -506,8 +506,8 @@ img.float_left {
     max-width: 100%;
   }
   #title h1 {
-    font-size: 3rem;
-    line-height: 4rem;
+    font-size: 2.2rem;
+    line-height: 1.5rem;
   }
   #title .label {
     font-size: 0.65em;
@@ -568,7 +568,7 @@ img.float_left {
     font-size: 22px;
     margin: 8px 0 0 0;
     padding: 0 10px;
-    color: #fc6;
+    color: #2F4858;
   }
   #toolbar .nav {
     float: right;
@@ -588,7 +588,7 @@ img.float_left {
     left: 0;
     right: 0;
     font-size: 16px;
-    background: #f0f0dd;
+    background: #2F4858;
     z-index: 200;
     list-style-type: none;
     padding: 10px 0 0 0;
