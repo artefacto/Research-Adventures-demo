@@ -23,7 +23,6 @@ body {
 h1 {
   font-family: 'Noto Serif', serif;
   font-size: 2.5rem;
-  letter-spacing: 2px;
   margin: 1em 0;
   text-align: center;
   font-weight: normal;
@@ -84,7 +83,6 @@ p {
 #title h1 {
   font-family: 'Noto Serif', serif;
   font-size: 2.2rem;
-  line-height: 1em;
   font-weight: normal;
   padding: 0;
   border-bottom: none;
@@ -234,6 +232,8 @@ img {
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.25), 1px 0px 2px 0px rgba(0, 0, 0, 0.1);
   display: block;
   margin: 1.1em 0 1.1em 1.1em;
+  max-width: 100%;
+  height: auto;
 }
 img.float_left {
   float: left;
@@ -506,8 +506,8 @@ img.float_left {
     max-width: 100%;
   }
   #title h1 {
-    font-size: 3rem;
-    line-height: 4rem;
+    font-size: 2.2rem;
+    line-height: 1.5rem;
   }
   #title .label {
     font-size: 0.65em;
@@ -588,7 +588,7 @@ img.float_left {
     left: 0;
     right: 0;
     font-size: 16px;
-    background: #f0f0dd;
+    background: #2F4858;
     z-index: 200;
     list-style-type: none;
     padding: 10px 0 0 0;
