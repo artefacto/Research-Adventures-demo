@@ -1,7 +1,7 @@
 /*
-    Research adventure template stylesheet
+    Raconteur template stylesheet
 
-    Basedon Raconteur styles Adapted from the Mere Anarchy stylesheet (Bruno Dias, 2015), which was
+    Adapted from the Mere Anarchy stylesheet (Bruno Dias, 2015), which was
     itself adapted from the base Undum stylesheet (Ian Millington, 2014). Distributed
     under the MIT license.
 
@@ -82,7 +82,8 @@ p {
 }
 #title h1 {
   font-family: 'Noto Serif', serif;
-  font-size: 2.2rem;
+  font-size: 2.4rem;
+  line-height: 1em;
   font-weight: normal;
   padding: 0;
   border-bottom: none;
